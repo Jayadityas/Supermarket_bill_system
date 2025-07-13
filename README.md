@@ -42,4 +42,21 @@ git clone https://github.com/Jayadityas/Supermarket_bill_system.git
 cd Supermarket_bill_system
 ```
 
-2. 
+2. Compile the program using g++ (or any C++ compiler):
+
+ ``` bash
+g++ billing1.cpp -o billing1
+
+  ```
+3. Run it:
+   ``` bash
+   ./billing1
+   // On Windows, use billing1.exe instead
+   ```
+## ✍️ Author
+👤 Jayaditya Sahu
+
+GitHub: @Jayadityas
+
+## ⭐️ Show your support
+If you found this project interesting, please ⭐️ the repo to help others discover it!
